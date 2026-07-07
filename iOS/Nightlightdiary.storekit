@@ -1,0 +1,27 @@
+{
+  "identifier": "1",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "4.99",
+      "familyShareable": false,
+      "internalID": "1000001",
+      "localizations": [
+        {
+          "description": "Best-conditions summary based on your own sleep ratings",
+          "displayName": "Nightlight Diary Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "com.shimondeitel.environmentlog.pro",
+      "referenceName": "Nightlight Diary Pro",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {},
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
